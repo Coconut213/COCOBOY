@@ -71,7 +71,7 @@ function draw() {
   // }
 
    if(path.y > height ){
-     path.y = height/2;
+    path.y = height/2;
    }
   
     createCash();
